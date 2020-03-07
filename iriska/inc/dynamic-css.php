@@ -785,12 +785,12 @@ function iriska_dynamic_style_css() {
 	$iriska_dynamic_css .= "
 		h1, h2, h3, h4, h5, h6 {
 			font-weight: {$iriska_headings_font_weight};
-			font-family: {$iriska_headings_font_css}
+			font-family: 'Open Sans', sans-serif;
 		}
 
 		body {
 			font-weight: {$iriska_content_font_weight};
-			font-family: {$iriska_content_font_css}
+			font-family: 'Open Sans', sans-serif;
 		}
 
 		strong,
