@@ -1,0 +1,552 @@
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Iriska\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-23 16:00+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-05-01 12:24+0500\n"
+"X-Generator: Poedit 2.0.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: ru\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgid "Search results for: %s"
+msgstr "Результаты поиска для: %s"
+
+msgid "Nothing found"
+msgstr "Ничего не найдено"
+
+msgid "Please try again with different keywords."
+msgstr "Пожалуйста, попробуйте снова с другими ключевыми словами."
+
+msgid "Skip to content"
+msgstr "Перейти к контенту"
+
+msgid "Primary"
+msgstr "Основное"
+
+msgid "Menu not set. Go to Admin Panel > Appearance > Menus and set the menu in the primary area. Site visitors do not see this notice."
+msgstr "Меню не установлено. Перейдите в Админ Панель > Внешний вид > Меню и установите меню в главную область. Посетители сайта не видят это уведомление."
+
+msgid "Information about the author is missing. Go to Admin Panel > Users. On the user edit page, place the text in the \"Biographical Info\" field. Or hide the section about the author in the Admin Panel > Appearance > Customize > Theme Layout Settings > Single post layout. Site visitors do not see this notice."
+msgstr "Информация об авторе отсутствует. Зайдите в Админ Панель > Пользователи. На странице редактирования пользователя поместите текст в поле \"Биографическая информация\". Или скройте раздел об авторе в Админ Панель > Внешний вид> Настроить > Настройки макета темы > Макет записи. Посетители сайта не видят этого уведомления."
+
+msgid "Iriska notice: At the moment, the theme Iriska does not support the infinite scrolling function in the \"Jetpack\" plugin. This feature will be added in future versions of the Irirska theme."
+msgstr "Уведомление Ириски: На данный момент тема Ириска не поддерживает функцию бесконечной прокрутки в плагине \"Jetpack\". Эта функция будет добавлена в будущих версиях темы Irirska."
+
+msgid "Iriska notice: At the moment, the Iriska theme does not fully support the WooCommerce plugin. This means that the plugin will work correctly, but the design of the elements and settings of WooCommerce will be standard. Full WooCommerce support will be added in future versions of the Iriska theme."
+msgstr "Уведомление Ириски: На данный момент тема Ириска не полностью поддерживает плагин WooCommerce. Это означает, что плагин будет работать правильно, но дизайн элементов и настройки WooCommerce будут стандартными. Полная поддержка WooCommerce будет добавлена в будущих версиях темы Ириска."
+
+msgid "Never show this notice again"
+msgstr "Никогда не показывать снова"
+
+msgid "Sidebar for archives"
+msgstr "Сайдбар для архивов"
+
+msgid "For the sidebar to be displayed, the corresponding setting must be enabled."
+msgstr "Для отображения сайдбара должна быть включена соответствующая настройка."
+
+msgid "Sidebar for posts"
+msgstr "Сайдбар для записей"
+
+msgid "Widget area for post (after content)"
+msgstr "Область виджетов для записи (после контента)"
+
+msgid "For the widget area to be displayed, the corresponding setting must be enabled."
+msgstr "Для отображения области виджетов должна быть включена соответствующая настройка."
+
+msgid "Sidebar for pages"
+msgstr "Сайдбар для страниц"
+
+msgid "Sidebar for 404 page"
+msgstr "Сайдбар для 404 страницы"
+
+msgid "Sidebar for search page"
+msgstr "Сайдбар для страницы поиска"
+
+msgid "Footer widget area 1"
+msgstr "Область виджетов в нижнем колонтитуле 1"
+
+msgid "You can set the width of the area in the appropriate settings."
+msgstr "Вы можете установить ширину области в соответствующих настройках."
+
+msgid "Footer widget area 2"
+msgstr "Область виджетов в нижнем колонтитуле 2"
+
+msgid "Footer widget area 3"
+msgstr "Область виджетов в нижнем колонтитуле 3"
+
+msgid "Footer widget area 4"
+msgstr "Область виджетов в нижнем колонтитуле 4"
+
+msgid "Comments (%1$d)"
+msgstr "Комментарии (%1$d)"
+
+msgid "Categories:"
+msgstr "Категории:"
+
+msgid "Tags:"
+msgstr "Теги:"
+
+msgid "Iriska | Latest posts"
+msgstr "Ириска | Последние записи"
+
+msgid "Title:"
+msgstr "Заголовок:"
+
+msgid "Number of posts:"
+msgstr "Количество записей:"
+
+msgid "Titles length:"
+msgstr "Длина заголовков:"
+
+msgid "Display thumbnails in posts without thumbnails"
+msgstr "Отображать миниатюру в записях без миниатюры"
+
+msgid "Accent color is displayed."
+msgstr "Отображается акцентный цвет."
+
+msgid "Display publication date"
+msgstr "Отображать дату публикации"
+
+msgid "From categories:"
+msgstr "Из категорий:"
+
+msgid "From tags:"
+msgstr "Из тегов:"
+
+msgid "Include:"
+msgstr "Включить:"
+
+msgid "Exclude:"
+msgstr "Исключить:"
+
+msgid "Sidebar"
+msgstr "Сайдбар"
+
+msgid "Site powered by %1$s | Theme: %2$s"
+msgstr "Сайт работает на %1$s | Тема: %2$s"
+
+msgid "Comments (%1$d) for post &ldquo;%2$s&rdquo;"
+msgstr "Комментарии (%1$d) для записи &ldquo;%2$s&rdquo;"
+
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+msgid "No comments yet."
+msgstr "Пока нет комментариев."
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Email"
+msgstr "Адрес ел. почты"
+
+msgid "Website"
+msgstr "Веб-сайт"
+
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+msgid "Use the form below to search the site."
+msgstr "Используйте форму ниже для поиска по сайту."
+
+msgid "Read more"
+msgstr "Читать далее"
+
+msgid "Sticky"
+msgstr "Прикреплено"
+
+msgid "There is nothing here yet."
+msgstr "Здесь пока ничего нет."
+
+msgid "Pages:"
+msgstr "Страницы:"
+
+msgid "Previous post"
+msgstr "Предыдущая запись"
+
+msgid "Next post"
+msgstr "Следующая запись"
+
+msgid "Avatar"
+msgstr "Аватар"
+
+msgid "Latest posts"
+msgstr "Последние записи"
+
+msgid "Header colors"
+msgstr "Цвета верхнего колонтитула"
+
+msgid "Header background image"
+msgstr "Изображение на заднем плане для верхнего колонтитула"
+
+msgid "Theme Color Settings"
+msgstr "Настройки Цвета Темы"
+
+msgid "Color for site name and description"
+msgstr "Цвет для названия и описания сайта"
+
+msgid "Changes will be visible if the display of the site name and description in the section \"Site Identity\" is enabled."
+msgstr "Изменения будут видны, если включено отображение названия и описания сайта в разделе \"Свойства Сайта\"."
+
+msgid "Header background color"
+msgstr "Цвет фона верхнего колонтитула"
+
+msgid "Background color of the section with menu and logo."
+msgstr "Цвет фона секции с меню и логотипом."
+
+msgid "Background color of submenus (only for large screens) and background color of the mobile menu"
+msgstr "Цвет фона подменю (только для больших экранов) и цвет фона мобильного меню"
+
+msgid "There are currently no settings to change the color of the links in the submenu. Therefore, select a submenu color to contrast with the color of the links in the menu. To change the color of the links in the menu there is a setting below."
+msgstr "На данный момент нет настроек для изменения цвета ссылок в подменю. Поэтому выберите цвет подменю, чтобы он контрастировал с цветом ссылок в меню. Для изменения цвета ссылок в меню есть настройка ниже."
+
+msgid "Header elements color"
+msgstr "Цвета элементов в верхнем колонтитуле"
+
+msgid "The color of elements such as the open mobile menu button, the close mobile menu button and etc."
+msgstr "Цвет элементов, таких как кнопка открытия мобильного меню, кнопка закрытия мобильного меню и т. д."
+
+msgid "Header links color"
+msgstr "Цвет ссылок в верхнем колонтитуле"
+
+msgid "The color of the links in the menu and submenu."
+msgstr "Цвет ссылок в меню и подменю."
+
+msgid "Links color in the menu when hovering"
+msgstr "Цвет ссылок в меню при наведении"
+
+msgid "The color of the current link in the menu"
+msgstr "Цвет текущей ссылки в меню"
+
+msgid "If the menu contains the current page, the link will have a different color."
+msgstr "Если меню содержит текущую страницу, ссылка будет другого цвета."
+
+msgid "The shadow color in the header and submenu"
+msgstr "Цвет тени в верхнем колонтитуле и подменю"
+
+msgid "Main colors"
+msgstr "Главные цвета"
+
+msgid "Accent color"
+msgstr "Акцентный цвет"
+
+msgid "Buttons and other elements."
+msgstr "Кнопки и другие элементы."
+
+msgid "Contrast color"
+msgstr "Контрастный цвет"
+
+msgid "The text on the buttons and other elements."
+msgstr "Текст на кнопках и на других элементах."
+
+msgid "Accent color when hovering"
+msgstr "Акцентный цвет при наведении"
+
+msgid "Accent color of the text changes when hovering."
+msgstr "Акцентный цвет текста изменяется при наведении."
+
+msgid "Accent background color when hovering"
+msgstr "Акцентный цвет фона при наведении"
+
+msgid "Accent background color changes when hovering."
+msgstr "Акцентный цвет фона меняется при наведении."
+
+msgid "Links colors in the content"
+msgstr "Цвета ссылок в контенте"
+
+msgid "Links color in the content"
+msgstr "Цвет ссылок в контенте"
+
+msgid "The color of the links in the content area. In other areas, the color of the links is equal to the text color."
+msgstr "Цвет ссылок в области контента. В других областях цвет ссылок равен цвету текста."
+
+msgid "Links color when hovering"
+msgstr "Цвет ссылок при наведении"
+
+msgid "Colors for pages, posts, archives"
+msgstr "Цвета для страниц, записей, архивов"
+
+msgid "The space background color and some elements"
+msgstr "Цвет фона пространства и некоторых элементов"
+
+msgid "The background color of the space around the content and elements such as navigation, caption, etc."
+msgstr "Цвет фона пространства вокруг контента и элементов таких, как навигация, подпись, т.д."
+
+msgid "Text color (for some elements)"
+msgstr "Цвет текста (для некоторых элементов)"
+
+msgid "The color of the text that is in the elements with the color settings above."
+msgstr "Цвет текста в элементах с настройками цвета выше."
+
+msgid "Background color of the content and some elements"
+msgstr "Цвет фона контента и некоторых элементов"
+
+msgid "Background color for content, widgets, navigation elements, fixed buttons and etc."
+msgstr "Цвет фона для контента, виджетов, элементов навигации, фиксированных кнопок и т.д."
+
+msgid "Text color"
+msgstr "Цвет текста"
+
+msgid "Borders color"
+msgstr "Цвет границ"
+
+msgid "Border color for tables, widget elements (only Iriska and WordPress widgets), and other content area elements."
+msgstr "Цвет границ для таблиц, элементов в виджетах (только Ириска и WordPress виджеты) и других элементов в области контента."
+
+msgid "Overlay colors"
+msgstr "Цвета затемнения"
+
+msgid "Overlay background color"
+msgstr "Цвет фона затемнения"
+
+msgid "Background color of the overlay when opening the comment area, sidebar and etc."
+msgstr "Цвет фона затемнения при открытии области комментариев, сайдбара и т.д."
+
+msgid "Footer colors"
+msgstr "Цвета нижнего колонтитула"
+
+msgid "Footer copyright area background color"
+msgstr "Цвет фона области авторского права в нижнем колонтитуле"
+
+msgid "Footer copyright text color"
+msgstr "Цвет текста в области авторского права в нижнем колонтитуле"
+
+msgid "Background color in footer widget areas"
+msgstr "Цвет фона в нижнем колонтитуле в области виджетов"
+
+msgid "The background will be visible if the footer widget area is enabled (if the footer contains at least one widget). Go to Admin Panel > Appearance > Widgets (or Customizer > Widgets) to add widgets."
+msgstr "Фон будет виден, если включена область виджетов нижнего колонтитула (если нижний колонтитул содержит хотя бы один виджет). Перейдите в Админ Панель > Внешний вид> Виджеты (или Настройка > Виджеты), чтобы добавить виджеты."
+
+msgid "Text color in the footer widgets"
+msgstr "Цвет текста в виджетах в нижнем колонтитуле"
+
+msgid "Borders color in the footer widget areas"
+msgstr "Цвет границ в нижнем колонтитуле в области дли виджетов"
+
+msgid "Border color for tables, widget elements (only Iriska and WordPress widgets), and other elements in the footer widget area."
+msgstr "Цвет границ для таблиц, элементов в виджетах (только Ириска и WordPress виджеты) и других элементов в нижнем колонтитуле в области для виджетов."
+
+msgid "Theme Layout Settings"
+msgstr "Настройки Макета Темы"
+
+msgid "Header layout for large screens"
+msgstr "Макет верхнего колонтитула для больших экранов"
+
+msgid "Settings for the header for large screens (from 980px and up)."
+msgstr "Настройки для верхнего колонтитула для больших экранов (от 980px и выше)."
+
+msgid "Header min height (px)"
+msgstr "Минимальная высота верхнего колонтитула (px)"
+
+msgid "Logo width (%)"
+msgstr "Ширина логотипа (%)"
+
+msgid "The min height of the fixed header (px)"
+msgstr "Минимальная высота фиксированного верхнего колонтитула (px)"
+
+msgid "Logo width in fixed header (%)"
+msgstr "Ширина логотипа в фиксированном верхнем колонтитуле(%)"
+
+msgid "Header layout for medium screens"
+msgstr "Макет верхнего колонтитула для средних экранов"
+
+msgid "Settings for the header for medium screens (from 768px to 980px)."
+msgstr "Настройки для верхнего колонтитула для средних экранов (от 768px до 980px)."
+
+msgid "Header layout for small screens"
+msgstr "Макет верхнего колонтитула для маленьких экранов"
+
+msgid "Settings for the header for small screens (up to 768px)."
+msgstr "Настройки для верхнего колонтитула для маленьких экранов (до 768px)."
+
+msgid "Mobile menu and fixed header"
+msgstr "Мобильное меню и фиксированный верхний колонтитул"
+
+msgid "Fixed header"
+msgstr "Фиксированный верхний колонтитул"
+
+msgid "Mobile menu (px)"
+msgstr "Мобильное меню (px)"
+
+msgid "Set the value at which the mobile menu will be enabled instead of the usual one."
+msgstr "Установите значение, при котором мобильное меню будет включено вместо обычного."
+
+msgid "Mobile menu for all screens"
+msgstr "Мобильное меню для всех экранов"
+
+msgid "Mobile menu for all screens. Setting above will not work if you enable this setting."
+msgstr "Мобильное меню для всех экранов. Настройка выше не будет работать, если вы включите эту настройку."
+
+msgid "Single post layout"
+msgstr "Макет записи"
+
+msgid "Display sidebar"
+msgstr "Отображать сайдбар"
+
+msgid "Display author"
+msgstr "Отображать автора"
+
+msgid "Display comments"
+msgstr "Отображать комментарии"
+
+msgid "Display categories"
+msgstr "Отображать категории"
+
+msgid "Display tags"
+msgstr "Отображать теги"
+
+msgid "Display buttons Previous post/Next post"
+msgstr "Отображать кнопки Предыдущая запись/Следующая запись"
+
+msgid "Display info about the author"
+msgstr "Отображать информацию об авторе"
+
+msgid "Display widget area on single post"
+msgstr "Отображать область для виджетов на странице записи"
+
+msgid "Width of widgets in the widgets area of post"
+msgstr "Ширина виджетов в области виджетов записи"
+
+msgid "Display latest posts"
+msgstr "Отображать последние записи"
+
+msgid "Number of latest posts"
+msgstr "Количество последних записей"
+
+msgid "The length of the last posts titles"
+msgstr "Длина заголовков последних записей"
+
+msgid "Display publication date in latest posts."
+msgstr "Отображать дату публикации в последних записях."
+
+msgid "Single page layout"
+msgstr "Макет страницы"
+
+msgid "Archives layout"
+msgstr "Макет архивов"
+
+msgid "The length of the text in the post preview"
+msgstr "Длина текста в предпросмотре записи"
+
+msgid "Content layout"
+msgstr "Макет контента"
+
+msgid "Content max width (px)"
+msgstr "Максимальная ширина контента (px)"
+
+msgid "Full width"
+msgstr "Полная ширина"
+
+msgid "If enabled, the container will be 100% width. The \"Content max width (px)\" setting will not work if this setting is enabled."
+msgstr "Если включено, контейнер будет иметь ширину 100%. Настройка \"Максимальная ширина контента (px)\" не будет работать, если эта настройка включена."
+
+msgid "Smooth scroll"
+msgstr "Плавная прокрутка"
+
+msgid "Smooth scrolling through blocks (if the link contains the \"id\" of the block). Disable this setting if it conflicts with scripts from other plugins."
+msgstr "Плавная прокрутка по блокам (если ссылка содержит \"id\" блока). Отключите эту настройку, если она конфликтует со скриптами из других плагинов."
+
+msgid "Layout 404 page"
+msgstr "Макет 404 страницы"
+
+msgid "Footer layout for large screens"
+msgstr "Макет нижнего колонтитула для больших экранов"
+
+msgid "Set the width of the widget areas for large screens (from 980px and up). To make changes visible, place widgets in these areas."
+msgstr "Установите ширину областей виджетов для больших экранов (от 980px и выше). Чтобы сделать изменения видимыми, разместите виджеты в этих областях."
+
+msgid "Widget area width 1 (%)"
+msgstr "Ширина области виджетов 1 (%)"
+
+msgid "Widget area width 2 (%)"
+msgstr "Ширина области виджетов 2 (%)"
+
+msgid "Widget area width 3 (%)"
+msgstr "Ширина области виджетов 3 (%)"
+
+msgid "Widget area width 4 (%)"
+msgstr "Ширина области виджетов 4 (%)"
+
+msgid "Footer layout for medium screens"
+msgstr "Макет нижнего колонтитула для средних экранов"
+
+msgid "Set the width of the widget areas for medium screens (from 768px to 980px). To make changes visible, place widgets in these areas."
+msgstr "Установите ширину областей виджетов для средних экранов (от 768px до 980px). Чтобы сделать изменения видимыми, разместите виджеты в этих областях."
+
+msgid "Footer layout for small screens"
+msgstr "Макет нижнего колонтитула для маленьких экранов"
+
+msgid "Set the width of the widget areas for small screens (up to 768px). To make changes visible, place widgets in these areas."
+msgstr "Установите ширину областей виджетов для маленьких экранов (до 768px). Чтобы сделать изменения видимыми, разместите виджеты в этих областях."
+
+msgid "Footer copyright area"
+msgstr "Область авторского права в нижнем колонтитуле"
+
+msgid "Copyright text"
+msgstr "Текст для авторского права"
+
+msgid "Theme Typography Settings"
+msgstr "Настройки Типографики Темы"
+
+msgid "Fonts"
+msgstr "Шрифты"
+
+msgid "Place the font link in the boxes below. Font for text and font for headlines. In the CSS field, place the CSS code (without \"font-family:\"). It is recommended to use Google Fonts. There you will also find the CSS code. To return the original values, copy the link and CSS code from the description of the settings and place in the desired field. %1$s"
+msgstr "Поместите ссылку на шрифт в поля ниже. Шрифт для текста и шрифт для заголовков. В поле CSS поместите код CSS (без \"font-family:\"). Рекомендуется использовать Google Fonts. Там вы также найдете CSS код. Чтобы вернуть исходные значения, скопируйте ссылку и CSS код из описания настроек и поместите в нужное поле. %1$s"
+
+msgid "Read more in the theme documentation"
+msgstr "Подробнее в документации к теме"
+
+msgid "Content font"
+msgstr "Шрифт для контента"
+
+msgid "Initially: %1$s"
+msgstr "Изначально: %1$s"
+
+msgid "CSS code for content font (without \"font-family:\")"
+msgstr "CSS код шрифта для контента (без \"font-family:\")"
+
+msgid "Content font weight"
+msgstr "Толщина начертания для контента"
+
+msgid "Headings font"
+msgstr "Шрифт для заголовков"
+
+msgid "CSS code for headings font (without \"font-family:\")"
+msgstr "CSS код шрифта для заголовков (без \"font-family:\")"
+
+msgid "Headings font weight"
+msgstr "Толщина начертания для заголовков"
+
+msgid "Font weight of some elements"
+msgstr "Толщина начертания для некоторых элементов"
+
+msgid "About Iriska"
+msgstr "О Ириске"
+
+msgid "Documentation"
+msgstr "Документация"
+
+msgid "Iriska"
+msgstr "Ириска"
+
+msgid "This theme is dedicated to the Iriska. She was kind, cheerful, loved to play various games. Unfortunately, she is no more and it is very sad. She lived 13 years. Next to the text her photo, she was so awesome!"
+msgstr "Эта тема посвящена Ириске. Она была добрая, веселая, любила играть в разные игры. К сожалению, ее больше нет, и это очень грустно. Она прожила 13 лет. Рядом с текстом ее фото, она была такая классная!"
+
+msgid "A piece of Iriska will forever be in this theme and in all sites that use the Iriska theme."
+msgstr "Часть Ириски навсегда останется в этой теме и на всех сайтах, которые используют тему Ириска."
+
+msgid "The documentation describes the theme features, hooks and filters. If the documentation did not help, create a ticket to WordPress.org with question or send the question using the contact form on the page with documentation on the tab \"Support\". Documentation page also contains the latest changes in the theme, which files were edited and what will be added in the next version."
+msgstr "В документации описаны особенности темы, хуки и фильтры. Если документация не помогла, создайте тикет на WordPress.org с вопросом или отправьте вопрос используя контактную форму на странице с документацией на вкладке \"Support\". Страница документации также содержит последние изменения в теме, какие файлы были отредактированы и что будет добавлено в следующей версии."
+
+msgid "View documentation"
+msgstr "Посмотреть документацию"

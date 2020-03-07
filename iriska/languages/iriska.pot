@@ -1,0 +1,553 @@
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Iriska\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-01 12:24+0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-04-12 09:55+0500\n"
+"X-Generator: Poedit 2.0.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+msgid "Search results for: %s"
+msgstr ""
+
+msgid "Nothing found"
+msgstr ""
+
+msgid "Please try again with different keywords."
+msgstr ""
+
+msgid "Skip to content"
+msgstr ""
+
+msgid "Primary"
+msgstr ""
+
+msgid "Menu not set. Go to Admin Panel > Appearance > Menus and set the menu in the primary area. Site visitors do not see this notice."
+msgstr ""
+
+msgid "Information about the author is missing. Go to Admin Panel > Users. On the user edit page, place the text in the \"Biographical Info\" field. Or hide the section about the author in the Admin Panel > Appearance > Customize > Theme Layout Settings > Single post layout. Site visitors do not see this notice."
+msgstr ""
+
+msgid "Iriska notice: At the moment, the theme Iriska does not support the infinite scrolling function in the \"Jetpack\" plugin. This feature will be added in future versions of the Irirska theme."
+msgstr ""
+
+msgid "Iriska notice: At the moment, the Iriska theme does not fully support the WooCommerce plugin. This means that the plugin will work correctly, but the design of the elements and settings of WooCommerce will be standard. Full WooCommerce support will be added in future versions of the Iriska theme."
+msgstr ""
+
+msgid "Never show this notice again"
+msgstr ""
+
+msgid "Sidebar for archives"
+msgstr ""
+
+msgid "For the sidebar to be displayed, the corresponding setting must be enabled."
+msgstr ""
+
+msgid "Sidebar for posts"
+msgstr ""
+
+msgid "Widget area for post (after content)"
+msgstr ""
+
+msgid "For the widget area to be displayed, the corresponding setting must be enabled."
+msgstr ""
+
+msgid "Sidebar for pages"
+msgstr ""
+
+msgid "Sidebar for 404 page"
+msgstr ""
+
+msgid "Sidebar for search page"
+msgstr ""
+
+msgid "Footer widget area 1"
+msgstr ""
+
+msgid "You can set the width of the area in the appropriate settings."
+msgstr ""
+
+msgid "Footer widget area 2"
+msgstr ""
+
+msgid "Footer widget area 3"
+msgstr ""
+
+msgid "Footer widget area 4"
+msgstr ""
+
+msgid "Comments (%1$d)"
+msgstr ""
+
+msgid "Categories:"
+msgstr ""
+
+msgid "Tags:"
+msgstr ""
+
+msgid "Iriska | Latest posts"
+msgstr ""
+
+msgid "Title:"
+msgstr ""
+
+msgid "Number of posts:"
+msgstr ""
+
+msgid "Titles length:"
+msgstr ""
+
+msgid "Display thumbnails in posts without thumbnails"
+msgstr ""
+
+msgid "Accent color is displayed."
+msgstr ""
+
+msgid "Display publication date"
+msgstr ""
+
+msgid "From categories:"
+msgstr ""
+
+msgid "From tags:"
+msgstr ""
+
+msgid "Include:"
+msgstr ""
+
+msgid "Exclude:"
+msgstr ""
+
+msgid "Sidebar"
+msgstr ""
+
+msgid "Site powered by %1$s | Theme: %2$s"
+msgstr ""
+
+msgid "Comments (%1$d) for post &ldquo;%2$s&rdquo;"
+msgstr ""
+
+msgid "Comments are closed."
+msgstr ""
+
+msgid "No comments yet."
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "Page not found"
+msgstr ""
+
+msgid "Use the form below to search the site."
+msgstr ""
+
+msgid "Read more"
+msgstr ""
+
+msgid "Sticky"
+msgstr ""
+
+msgid "There is nothing here yet."
+msgstr ""
+
+msgid "Pages:"
+msgstr ""
+
+msgid "Previous post"
+msgstr ""
+
+msgid "Next post"
+msgstr ""
+
+msgid "Avatar"
+msgstr ""
+
+msgid "Latest posts"
+msgstr ""
+
+msgid "Header colors"
+msgstr ""
+
+msgid "Header background image"
+msgstr ""
+
+msgid "Theme Color Settings"
+msgstr ""
+
+msgid "Color for site name and description"
+msgstr ""
+
+msgid "Changes will be visible if the display of the site name and description in the section \"Site Identity\" is enabled."
+msgstr ""
+
+msgid "Header background color"
+msgstr ""
+
+msgid "Background color of the section with menu and logo."
+msgstr ""
+
+msgid "Background color of submenus (only for large screens) and background color of the mobile menu"
+msgstr ""
+
+msgid "There are currently no settings to change the color of the links in the submenu. Therefore, select a submenu color to contrast with the color of the links in the menu. To change the color of the links in the menu there is a setting below."
+msgstr ""
+
+msgid "Header elements color"
+msgstr ""
+
+msgid "The color of elements such as the open mobile menu button, the close mobile menu button and etc."
+msgstr ""
+
+msgid "Header links color"
+msgstr ""
+
+msgid "The color of the links in the menu and submenu."
+msgstr ""
+
+msgid "Links color in the menu when hovering"
+msgstr ""
+
+msgid "The color of the current link in the menu"
+msgstr ""
+
+msgid "If the menu contains the current page, the link will have a different color."
+msgstr ""
+
+msgid "The shadow color in the header and submenu"
+msgstr ""
+
+msgid "Main colors"
+msgstr ""
+
+msgid "Accent color"
+msgstr ""
+
+msgid "Buttons and other elements."
+msgstr ""
+
+msgid "Contrast color"
+msgstr ""
+
+msgid "The text on the buttons and other elements."
+msgstr ""
+
+msgid "Accent color when hovering"
+msgstr ""
+
+msgid "Accent color of the text changes when hovering."
+msgstr ""
+
+msgid "Accent background color when hovering"
+msgstr ""
+
+msgid "Accent background color changes when hovering."
+msgstr ""
+
+msgid "Links colors in the content"
+msgstr ""
+
+msgid "Links color in the content"
+msgstr ""
+
+msgid "The color of the links in the content area. In other areas, the color of the links is equal to the text color."
+msgstr ""
+
+msgid "Links color when hovering"
+msgstr ""
+
+msgid "Colors for pages, posts, archives"
+msgstr ""
+
+msgid "The space background color and some elements"
+msgstr ""
+
+msgid "The background color of the space around the content and elements such as navigation, caption, etc."
+msgstr ""
+
+msgid "Text color (for some elements)"
+msgstr ""
+
+msgid "The color of the text that is in the elements with the color settings above."
+msgstr ""
+
+msgid "Background color of the content and some elements"
+msgstr ""
+
+msgid "Background color for content, widgets, navigation elements, fixed buttons and etc."
+msgstr ""
+
+msgid "Text color"
+msgstr ""
+
+msgid "Borders color"
+msgstr ""
+
+msgid "Border color for tables, widget elements (only Iriska and WordPress widgets), and other content area elements."
+msgstr ""
+
+msgid "Overlay colors"
+msgstr ""
+
+msgid "Overlay background color"
+msgstr ""
+
+msgid "Background color of the overlay when opening the comment area, sidebar and etc."
+msgstr ""
+
+msgid "Footer colors"
+msgstr ""
+
+msgid "Footer copyright area background color"
+msgstr ""
+
+msgid "Footer copyright text color"
+msgstr ""
+
+msgid "Background color in footer widget areas"
+msgstr ""
+
+msgid "The background will be visible if the footer widget area is enabled (if the footer contains at least one widget). Go to Admin Panel > Appearance > Widgets (or Customizer > Widgets) to add widgets."
+msgstr ""
+
+msgid "Text color in the footer widgets"
+msgstr ""
+
+msgid "Borders color in the footer widget areas"
+msgstr ""
+
+msgid "Border color for tables, widget elements (only Iriska and WordPress widgets), and other elements in the footer widget area."
+msgstr ""
+
+msgid "Theme Layout Settings"
+msgstr ""
+
+msgid "Header layout for large screens"
+msgstr ""
+
+msgid "Settings for the header for large screens (from 980px and up)."
+msgstr ""
+
+msgid "Header min height (px)"
+msgstr ""
+
+msgid "Logo width (%)"
+msgstr ""
+
+msgid "The min height of the fixed header (px)"
+msgstr ""
+
+msgid "Logo width in fixed header (%)"
+msgstr ""
+
+msgid "Header layout for medium screens"
+msgstr ""
+
+msgid "Settings for the header for medium screens (from 768px to 980px)."
+msgstr ""
+
+msgid "Header layout for small screens"
+msgstr ""
+
+msgid "Settings for the header for small screens (up to 768px)."
+msgstr ""
+
+msgid "Mobile menu and fixed header"
+msgstr ""
+
+msgid "Fixed header"
+msgstr ""
+
+msgid "Mobile menu (px)"
+msgstr ""
+
+msgid "Set the value at which the mobile menu will be enabled instead of the usual one."
+msgstr ""
+
+msgid "Mobile menu for all screens"
+msgstr ""
+
+msgid "Mobile menu for all screens. Setting above will not work if you enable this setting."
+msgstr ""
+
+msgid "Single post layout"
+msgstr ""
+
+msgid "Display sidebar"
+msgstr ""
+
+msgid "Display author"
+msgstr ""
+
+msgid "Display comments"
+msgstr ""
+
+msgid "Display categories"
+msgstr ""
+
+msgid "Display tags"
+msgstr ""
+
+msgid "Display buttons Previous post/Next post"
+msgstr ""
+
+msgid "Display info about the author"
+msgstr ""
+
+msgid "Display widget area on single post"
+msgstr ""
+
+msgid "Width of widgets in the widgets area of post"
+msgstr ""
+
+msgid "Display latest posts"
+msgstr ""
+
+msgid "Number of latest posts"
+msgstr ""
+
+msgid "The length of the last posts titles"
+msgstr ""
+
+msgid "Display publication date in latest posts."
+msgstr ""
+
+msgid "Single page layout"
+msgstr ""
+
+msgid "Archives layout"
+msgstr ""
+
+msgid "The length of the text in the post preview"
+msgstr ""
+
+msgid "Content layout"
+msgstr ""
+
+msgid "Content max width (px)"
+msgstr ""
+
+msgid "Full width"
+msgstr ""
+
+msgid "If enabled, the container will be 100% width. The \"Content max width (px)\" setting will not work if this setting is enabled."
+msgstr ""
+
+msgid "Smooth scroll"
+msgstr ""
+
+msgid "Smooth scrolling through blocks (if the link contains the \"id\" of the block). Disable this setting if it conflicts with scripts from other plugins."
+msgstr ""
+
+msgid "Layout 404 page"
+msgstr ""
+
+msgid "Footer layout for large screens"
+msgstr ""
+
+msgid "Set the width of the widget areas for large screens (from 980px and up). To make changes visible, place widgets in these areas."
+msgstr ""
+
+msgid "Widget area width 1 (%)"
+msgstr ""
+
+msgid "Widget area width 2 (%)"
+msgstr ""
+
+msgid "Widget area width 3 (%)"
+msgstr ""
+
+msgid "Widget area width 4 (%)"
+msgstr ""
+
+msgid "Footer layout for medium screens"
+msgstr ""
+
+msgid "Set the width of the widget areas for medium screens (from 768px to 980px). To make changes visible, place widgets in these areas."
+msgstr ""
+
+msgid "Footer layout for small screens"
+msgstr ""
+
+msgid "Set the width of the widget areas for small screens (up to 768px). To make changes visible, place widgets in these areas."
+msgstr ""
+
+msgid "Footer copyright area"
+msgstr ""
+
+msgid "Copyright text"
+msgstr ""
+
+msgid "Theme Typography Settings"
+msgstr ""
+
+msgid "Fonts"
+msgstr ""
+
+msgid "Place the font link in the boxes below. Font for text and font for headlines. In the CSS field, place the CSS code (without \"font-family:\"). It is recommended to use Google Fonts. There you will also find the CSS code. To return the original values, copy the link and CSS code from the description of the settings and place in the desired field. %1$s"
+msgstr ""
+
+msgid "Read more in the theme documentation"
+msgstr ""
+
+msgid "Content font"
+msgstr ""
+
+msgid "Initially: %1$s"
+msgstr ""
+
+msgid "CSS code for content font (without \"font-family:\")"
+msgstr ""
+
+msgid "Content font weight"
+msgstr ""
+
+msgid "Headings font"
+msgstr ""
+
+msgid "CSS code for headings font (without \"font-family:\")"
+msgstr ""
+
+msgid "Headings font weight"
+msgstr ""
+
+msgid "Font weight of some elements"
+msgstr ""
+
+msgid "About Iriska"
+msgstr ""
+
+msgid "Documentation"
+msgstr ""
+
+msgid "Iriska"
+msgstr ""
+
+msgid "This theme is dedicated to the Iriska. She was kind, cheerful, loved to play various games. Unfortunately, she is no more and it is very sad. She lived 13 years. Next to the text her photo, she was so awesome!"
+msgstr ""
+
+msgid "A piece of Iriska will forever be in this theme and in all sites that use the Iriska theme."
+msgstr ""
+
+msgid "The documentation describes the theme features, hooks and filters. If the documentation did not help, create a ticket to WordPress.org with question or send the question using the contact form on the page with documentation on the tab \"Support\". Documentation page also contains the latest changes in the theme, which files were edited and what will be added in the next version."
+msgstr ""
+
+msgid "View documentation"
+msgstr ""
