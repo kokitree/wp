@@ -20,17 +20,7 @@ $iriska_site_have_sticky_header = ( $iriska_sticky_header_setting ) ? 'iriska-si
 		<link rel="profile" href="https://gmpg.org/xfn/11">
 		<?php wp_head(); ?>
 		
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-249504-35"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-249504-35');
-</script>
-		
-		
 	</head>
 	<body <?php body_class('iriska-theme'); ?>>
 		<?php
