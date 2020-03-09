@@ -13,7 +13,7 @@ get_header();
 ?>
 
 <main id="site-content" role="main">
-
+<center><small>As an Amazon Associate and we may earn commission when you purchase through links on our site.</small></center>
 	<?php
 
 	if ( have_posts() ) {

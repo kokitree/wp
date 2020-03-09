@@ -5,10 +5,10 @@ Version: 1.1
 Requires at least: 4.7
 Requires PHP: 5.2.4
 Description: Our default theme for 2020
-Tags: blog, one-column, custom-background, custom-colors, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, block-styles, wide-blocks, accessibility-ready
+Tags: blog, one-column, custom-background, custom-colors, custom-logo, custom-menu, editor-style
 Author: the WordPress team
-Author URI: https://wordpress.org/
-Theme URI: https://wordpress.org/themes/twentytwenty/
+Author URI: https://thefifty9.com/
+Theme URI: https://thefifty9.com/
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -313,19 +313,19 @@ h6,
 
 h1,
 .heading-size-1 {
-	font-size: 3.6rem;
+	font-size: 3rem;
 	font-weight: 800;
 	line-height: 1.138888889;
 }
 
 h2,
 .heading-size-2 {
-	font-size: 2.2rem;
+	font-size: 2rem;
 }
 
 h3,
 .heading-size-3 {
-	font-size: 1.8rem;
+	font-size: 1.3rem;
 }
 
 h4,
@@ -371,7 +371,7 @@ big {
 }
 
 small {
-	font-size: 0.75em;
+	font-size: 0.55em;
 }
 
 b,
@@ -456,7 +456,7 @@ hr.styled-separator::after {
 }
 
 a {
-	color: #cd2653;
+	color: #1565C0;
 	text-decoration: underline;
 }
 
@@ -4325,7 +4325,7 @@ div.comment:first-of-type {
 #site-footer {
 	background-color: #fff;
 	border-color: #dedfdf;
-	border-style: solid;
+	border-style: dotted;
 	border-width: 0;
 }
 
@@ -4350,7 +4350,7 @@ div.comment:first-of-type {
 
 .footer-top {
 	display: flex;
-	border-bottom: 0.1rem solid #dedfdf;
+	border-bottom: 0.1rem dotted #dedfdf;
 	justify-content: space-between;
 }
 
@@ -4414,7 +4414,7 @@ ul.footer-social li {
 /* Footer Widgets ---------------------------- */
 
 .footer-widgets-outer-wrapper {
-	border-bottom: 0.1rem solid #dedfdf;
+	border-bottom: 0.1rem dotted #dedfdf;
 }
 
 .footer-widgets + .footer-widgets {
@@ -4715,32 +4715,32 @@ a.to-the-top > * {
 
 	h1,
 	.heading-size-1 {
-		font-size: 5.4rem;
+		font-size: 5rem;
 	}
 
 	h2,
 	.heading-size-2 {
-		font-size: 4.8rem;
+		font-size: 3.5rem;
 	}
 
 	h3,
 	.heading-size-3 {
-		font-size: 4rem;
+		font-size: 3rem;
 	}
 
 	h4,
 	.heading-size-4 {
-		font-size: 3.2rem;
+		font-size: 2rem;
 	}
 
 	h5,
 	.heading-size-5 {
-		font-size: 2.4rem;
+		font-size: 1.4rem;
 	}
 
 	h6,
 	.heading-size-6 {
-		font-size: 1.8rem;
+		font-size: 1rem;
 	}
 
 	/* INPUTS */
@@ -5012,7 +5012,7 @@ a.to-the-top > * {
 	}
 
 	.post-meta {
-		font-size: 1.6rem;
+		font-size: 1.3rem;
 		margin: -1.4rem 0 0 -3rem;
 	}
 
