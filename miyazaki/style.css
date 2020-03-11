@@ -227,8 +227,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 { font-size: 3rem; }
-h2 { font-size: 2rem; }
-h3 { font-size: 1.9rem; }
+h2 { font-size: 2.2rem; }
+h3 { font-size: 2rem; }
 h4 { font-size: 1.2rem; }
 h5 { font-size: 0.8rem; }
 h6 { font-size: 0.4rem; }
@@ -1670,11 +1670,11 @@ body.showing-modal .main-menu ul a:hover {
 
 .pagination-single a {
 	align-items: flex-start;
-	border-top: .2rem solid #000;
+	border-top: .1rem dashed #757575;
 	color: inherit;
 	display: flex;
 	font-weight: 600;
-	font-size: 2.4rem;
+	font-size: 1.6rem;
 	line-height: 1;
 	padding-top: 1rem;
 	text-decoration: none;
@@ -2361,7 +2361,7 @@ body:not(.pagination-type-button) #load-more {
 #load-more {
 	background: none;
 	color: inherit;
-	font-size: 3.2rem;
+	font-size: 2.2rem;
 	font-weight: 600;
 	letter-spacing: -0.015em;
 	padding: 0;
@@ -2475,7 +2475,7 @@ html.js body:not(.pagination-type-links) .link-pagination {
 }
 
 .footer-copyright {
-	font-size: 2.8rem;
+	font-size: 1.8rem;
 	font-weight: 600;
 	margin: 0;
 }
@@ -2483,7 +2483,7 @@ html.js body:not(.pagination-type-links) .link-pagination {
 .theme-credits {
 	color: #767676;
 	display: none;
-	font-size: 2.4rem;
+	font-size: 1.4rem;
 	font-weight: 600;
 	margin-left: 1.8rem;
 }
@@ -2887,7 +2887,7 @@ ul.footer-nav {
 	}
 
 	.has-front-header .front-title {
-		font-size: 9.6rem;
+		font-size: 5.6rem;
 	}
 
 
@@ -2985,7 +2985,7 @@ ul.footer-nav {
 	}
 
 	.post-meta-single .post-meta {
-		font-size: 2.4rem;
+		font-size: 1.4rem;
 		margin: -1.2rem 0 0 -3rem;
 	}
 
@@ -3050,7 +3050,7 @@ ul.footer-nav {
 	}
 
 	.related-posts-title {
-		font-size: 2rem;
+		font-size: 1.6rem;
 		margin-bottom: 2rem;
 	}
 
@@ -3299,7 +3299,7 @@ ul.footer-nav {
 	}
 
 	#load-more {
-		font-size: 6.4rem;
+		font-size: 4.4rem;
 	}
 
 
@@ -3351,7 +3351,7 @@ ul.footer-nav {
 
 	.footer-copyright,
 	ul.footer-nav {
-		font-size: 3.2rem;
+		font-size: 2rem;
 	}
 
 	ul.footer-nav {
@@ -3427,7 +3427,7 @@ ul.footer-nav {
 	/* HOME HEADER */
 
 	.has-front-header .front-title {
-		font-size: 14.4rem;
+		font-size: 6.4rem;
 	}
 
 	.has-front-header #site-header .section-inner {
@@ -3447,7 +3447,7 @@ ul.footer-nav {
 	}
 	
 	.search-overlay .search-field {
-		font-size: 7.2rem;
+		font-size: 5.2rem;
 	}
 
 	/* SHOWING MODAL HEADER */
@@ -3537,7 +3537,7 @@ ul.footer-nav {
 	}
 
 	.widget-title {
-		font-size: 3.2rem;
+		font-size: 2.2rem;
 		margin: 0 0 3rem;
 	}
 
@@ -3558,7 +3558,7 @@ ul.footer-nav {
 	/* Site Header ------------------------------- */
 
 	#site-header {
-		font-size: 3.2rem;
+		font-size: 2.2rem;
 	}
 
 	.site-title,
@@ -3581,7 +3581,7 @@ ul.footer-nav {
 	}
 
 	.has-front-header .front-title {
-		font-size: 19.2rem;
+		font-size: 9.2rem;
 	}
 
 
@@ -3644,7 +3644,7 @@ ul.footer-nav {
 	}
 
 	.related-posts-title {
-		font-size: 3rem;
+		font-size: 2rem;
 	}
 	
 	.related-posts .preview:nth-child(4) {
