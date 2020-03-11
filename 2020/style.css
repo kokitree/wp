@@ -456,7 +456,7 @@ hr.styled-separator::after {
 
 a {
 	color: #1565C0;
-	text-decoration: underline;
+	text-decoration: dotted;
 }
 
 a:hover,
@@ -2417,7 +2417,7 @@ body:not(.singular) main > article:first-of-type {
 
 .entry-categories a {
 	border-bottom: 0.15rem solid currentColor;
-	font-size: 1.4rem;
+	font-size: 1.3rem;
 	font-weight: 700;
 	letter-spacing: 0.036666667em;
 	margin: 0.5rem 0 0 1rem;
