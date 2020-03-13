@@ -220,7 +220,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-weight: 300;
+	font-weight: bold;
 	letter-spacing: -0.005em;
 	line-height: .95;
 	margin: .75em 0 .4em;
@@ -522,7 +522,7 @@ figcaption a,
 	display: block;
 	float: left;
 	margin: 0 0 1rem;
-	padding: 0 .5rem;
+	padding: 0.5rem;
 	position: relative;
 	width: 50%;
 }
@@ -2069,7 +2069,7 @@ body.showing-modal .main-menu ul a:hover {
 
 /* Gutenberg Font Sizes --------------------------------------- */
 
-.entry-content .has-small-font-size { font-size: .842em; }
+.entry-content .has-small-font-size { font-size: .542em; }
 .entry-content .has-regular-font-size { font-size: 1em; }
 
 .entry-content .has-large-font-size,
